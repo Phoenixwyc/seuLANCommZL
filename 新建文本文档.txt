@@ -1,0 +1,5 @@
+jpcap 的安装
+step1：本机安装winpcap
+step1：确定本机操作系统的位数，32位系统使用32位系统的jpcap包导入工程
+step2：将对应的jpcap.dll放入本机jdk的bin目录即可
+
